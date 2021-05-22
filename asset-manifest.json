@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-typescript-tailwindcss-template/static/css/main.962cdf96.chunk.css",
+    "main.js": "/react-typescript-tailwindcss-template/static/js/main.fb2ee5f2.chunk.js",
+    "main.js.map": "/react-typescript-tailwindcss-template/static/js/main.fb2ee5f2.chunk.js.map",
+    "runtime-main.js": "/react-typescript-tailwindcss-template/static/js/runtime-main.49a5a373.js",
+    "runtime-main.js.map": "/react-typescript-tailwindcss-template/static/js/runtime-main.49a5a373.js.map",
+    "static/js/2.568f8c76.chunk.js": "/react-typescript-tailwindcss-template/static/js/2.568f8c76.chunk.js",
+    "static/js/2.568f8c76.chunk.js.map": "/react-typescript-tailwindcss-template/static/js/2.568f8c76.chunk.js.map",
+    "index.html": "/react-typescript-tailwindcss-template/index.html",
+    "static/css/main.962cdf96.chunk.css.map": "/react-typescript-tailwindcss-template/static/css/main.962cdf96.chunk.css.map",
+    "static/js/2.568f8c76.chunk.js.LICENSE.txt": "/react-typescript-tailwindcss-template/static/js/2.568f8c76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a5a373.js",
+    "static/js/2.568f8c76.chunk.js",
+    "static/css/main.962cdf96.chunk.css",
+    "static/js/main.fb2ee5f2.chunk.js"
+  ]
+}
