@@ -57,12 +57,12 @@ const items: Item[] = [
     name: "Lays Chips",
     price: 2,
   },
-	{
-    name: "Frozen French Fries",
-    price: 2,
+  {
+    name: "Chicken Nuggets",
+    price: 4,
   },
-	{
-    name: "Frozen French Fries",
+  {
+    name: "French Fries",
     price: 2,
   },
 ].sort((a, b) => a.price - b.price);
